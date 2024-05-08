@@ -1,0 +1,10 @@
+.custom-btn-primary,
+.custom-btn-success,
+.custom-btn-warning {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+}
+
+.color-label {
+    margin-bottom: 10px; /* Add space between color labels */
+}
