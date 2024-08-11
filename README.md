@@ -1,16 +1,33 @@
-INVENTORY SYSTEM
+# Inventory Management System
+
+### Overview
+
+The Inventory Management System (IMS) is a web-based application designed to streamline inventory management. It allows for efficient tracking, updating, and management of inventory items. The system supports two types of users: Admins and Regular Users.
 
 
-![image](https://github.com/user-attachments/assets/e43b35b7-82d7-4e30-9443-97d34d7c1540)
+### Features
 
-![image](https://github.com/user-attachments/assets/032c1dd8-02f3-4557-b362-d7f4750103d5)
+Admin Access 
+- Full access to all system functionalities.
+- Create, read, update, and delete inventory items.
+- Manage all user accounts.
+- Access and modify system settings.
 
-![image](https://github.com/user-attachments/assets/8b4c110f-b5eb-4374-b223-c24265e1cc05)
+User Access
+- View and update inventory items.
+- Cannot create new users or delete data from the system.
 
-![image](https://github.com/user-attachments/assets/3fe1dd4a-7742-4dd4-8c54-50cd05644570)
 
-![image](https://github.com/user-attachments/assets/93baaf5f-2c2d-48b8-82c0-cb38ac4895bf)
+### Usage
 
-![image](https://github.com/user-attachments/assets/4e5e389d-a5a8-4d94-b54b-7e07fca1b3e6)
+**Some of the functionalities are not working on the live website because I used external javascript files and it has a problem working on the live hosting (i used infinityfree, all of the functionalities are working in my local machine), if you want to host your project make sure to use internal css and js so that it will work.**
 
-![Uploading image.png…]()
+**The only functionality that is working on the live website is adding items into the inventory.**
+
+**Admin Login**
+- Email: admin@gmail.com
+- Password: admin123
+  
+**User Login**
+- Email: user@gmail.com
+- Password: user123
