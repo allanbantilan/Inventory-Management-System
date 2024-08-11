@@ -24,6 +24,9 @@ User Access
 
 **The only functionality that is working on the live website is adding items into the inventory.**
 
+**Live Website**
+- http://inventoryms.kesug.com/
+
 **Admin Login**
 - Email: admin@gmail.com
 - Password: admin123
